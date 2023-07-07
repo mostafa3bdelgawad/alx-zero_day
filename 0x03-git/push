@@ -1,6 +1,0 @@
-#!/bin/bash
-echo "file name "
-read x
-chnod +x ${x}
-git add .
-git commi
