@@ -1,2 +1,3 @@
-#i am mostafa
-echo "me"
+#i am mostafa mohamed 
+echo "mostafa was here"
+#none
